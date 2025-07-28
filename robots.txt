@@ -1,0 +1,7 @@
+user-agent: *
+
+disallow: README.md
+disallow: CNAME
+disallow: index.html
+disallow: robots.txt
+disallow: security.txt
